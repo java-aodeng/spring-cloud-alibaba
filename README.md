@@ -1,5 +1,6 @@
 
 history 熔断器失效解决方案 https://github.com/alibaba/spring-cloud-alibaba/wiki/Sentinel
+高版本需要替换组件为Sentinel
 ```
 ## 消息服务
 /**
